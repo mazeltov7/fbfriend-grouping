@@ -21,3 +21,4 @@
 .byebug_history
 .idea/*
 /config/initializers/devise.rb
+/config/initializers/koala.rb
